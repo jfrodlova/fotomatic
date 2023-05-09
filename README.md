@@ -5,4 +5,4 @@ This is a Codecademy debugging project for practicing CSS.
 - Logo font required a link (index.html) and CSS spec.
 - Comment in index.html was not closed on the right side.
 - Some CSS classes had to be corrected.
-- Media queries need to be reordered.
+- Media queries had to be reordered.
