@@ -341,6 +341,14 @@ footer .copyright {
 
 
 @media only screen and (max-width: 450px) {
+  header .mobile {
+    display: block;
+    width: 100%; }
+
+  header .desktop {
+    display: none;
+  }
+
   #sign-up-section {
     height: 20rem;
   }
